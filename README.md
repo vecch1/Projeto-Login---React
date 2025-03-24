@@ -1,3 +1,7 @@
+Este projeto esta conectado ao Backend feito neste reposítorio: https://github.com/vecch1/Projeto-Login-API-NodeJS
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
